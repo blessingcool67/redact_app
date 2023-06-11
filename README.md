@@ -12,7 +12,8 @@ This Application was written in **PHP, Bootstraps, Jquery-Ajax, Css etc. leverag
 
 0.) Download the Code from github and extract **redact_app** folder
 
-1.)You will need to install Xampp Server. After installation, ensure that PHP has been started and Running from Xampp Control Panel.
+1.)You will need to install Xampp Server. After installation, ensure that PHP has been installed. Now Ensure that **Apache Server** has been started  and Running from Xampp Control Panel.
+
 Then Copy **redact_app** folder  to **htdocs** of the Xampp Server Eg. **C:\xampp\htdocs\redact_app**
 
 

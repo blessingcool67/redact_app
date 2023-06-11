@@ -4,7 +4,7 @@
 
 // Set Redact Access Token
 
-$redact_access_token ='pts_zt4zlhugakmgj3nclivufliryw3cssjt';
+$redact_access_token ='';
 
 
 ?>
